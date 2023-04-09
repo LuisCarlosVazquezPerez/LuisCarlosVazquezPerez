@@ -44,7 +44,7 @@
 </a>
 
 <a href="https://gist.github.com/LuisCarlosVazquezPerez" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=gist style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=Gist&logoColor=white alt=gist style="margin-bottom: 5px;" />
 </a>
   
 <a href="https://mx.linkedin.com/" target="_blank">
