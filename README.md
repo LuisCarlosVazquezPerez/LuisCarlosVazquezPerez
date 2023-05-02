@@ -54,6 +54,11 @@
 <a href="https://www.facebook.com/LuisCarlosVazquezPerez11" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
+  
+ <a href="https://www.twitch.tv/luisonce1111" target="_blank">
+<img src=https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white alt=Twitch style="margin-bottom: 5px;" />
+</a>
+  
 
 <a href="https://instagram.com/luisvazquezperez11?igshid=ZDdkNTZiNTM=" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
