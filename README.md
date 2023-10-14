@@ -31,6 +31,9 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />   
 <img style="margin: 10px" src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" alt="Java" height="50" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" height="50" />  
+<img style="margin: 10px" src="https://i.postimg.cc/KvhHtCJp/livewire-technisia.png" alt="Livewire" height="50" />  
+  
 </div></td><td valign="top" width="33%">
 
  
