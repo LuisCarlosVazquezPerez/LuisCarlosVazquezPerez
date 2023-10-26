@@ -21,6 +21,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://sass-lang.com/assets/img/styleguide/seal-color.png" alt="SASS" height="50" />  
 <img style="margin: 10px" src="https://brettthewhitt.files.wordpress.com/2017/01/gulp.png?w=257" alt="GULP" height="50" />  
+<img style="margin: 10px" src="https://progsoft.net/images/tailwind-css-icon-70187f0341bd945dc65ad050a9a1b8f4fd79b1cf.png" alt="Tailwind" height="50" />  
 
 </div></td><td valign="top" width="33%">
 
